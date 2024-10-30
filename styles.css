@@ -82,7 +82,7 @@ img{
     text-align: center;
     text-decoration: underline;
     font-style: italic;
-    margin: 40px 0px 20px 0px; 
+    margin: 40px 0px 0px 3px; 
 }
 .project{
     text-align: center;
@@ -113,13 +113,20 @@ img{
     align-items: center;
     text-align: center;
     list-style: none;
-    padding: 0;
-    margin: 0 20px 33px 33px;
+    padding: 15px;
+  
 }
-.service {
+.service1 {
+    height: max-content;
+    background-color: #24283e;
+    padding: 17px;
+    margin:9px 17px 25px 32px;
+}
+.service2{
+    
     background-color: #24283e;
     padding: 11px;
-    margin: 7px 38px 17px 22px;
+    margin: 0px 36px 20px 20px;
 }
 .filter-controls {
     text-align: center;
